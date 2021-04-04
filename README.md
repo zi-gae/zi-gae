@@ -5,7 +5,7 @@
   <samp>
     Hi,<img src="https://github.com/devGW/devgw/blob/master/img/Hi.gif" width="20px"> I'm JeongGeonWoo Frontend developer working on <a href="https://github.com/devgw">@devgw :octocat:</a> to support open source.
   </samp>
-  <img align="right" width="375" alt="GIF" src="https://github.com/devGW/devgw/blob/master/img/dino.gif" />
+  
 </p>
 
 <br/>
