@@ -18,13 +18,13 @@ jobs:
           plugin_isocalendar_duration: half-year
           
       - name: 📌 Starred topics (icons)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 24
           plugin_topics_mode: icons
 
       - name: 📙 Terminal template
