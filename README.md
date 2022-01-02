@@ -12,6 +12,7 @@
 <br/>
 
 
+![Metrics](https://github.com/zi-gae/zi-gae/blob/master/github-metrics.svg)
 
 
 ## :trophy: My Stats: :trophy:       
