@@ -3,7 +3,7 @@
   <br><br>
   
   <samp>
-    Hi,<img src="https://github.com/zi-gae/zi-gae/blob/master/img/Hi.gif" width="20px"> I'm JeongGeonWoo Frontend developer working on <a href="https://github.com/zi-gae">@zi-gae :octocat:</a> to support open source.
+    Hi,<img src="https://github.com/zi-gae/zi-gae/blob/master/img/Hi.gif" width="20px" height="20px"> I'm JeongGeonWoo Frontend developer working on <a href="https://github.com/zi-gae">@zi-gae :octocat:</a> to support open source.
   </samp>
   
 </p>
