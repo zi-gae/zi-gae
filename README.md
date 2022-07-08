@@ -6,6 +6,11 @@
     Hi,<img src="https://github.com/zi-gae/zi-gae/blob/master/img/Hi.gif" width="20px" height="20px"> I'm JeongGeonWoo Frontend developer working on <a href="https://github.com/zi-gae">@zi-gae :octocat:</a> to support open source.
   </samp>
   
+<br/>
+<br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=zi-gae&label=Profile%20views&color=0e75b6&style=flat" alt="zi-gae profile view" />
+  
 </p>
 
 <br/>
