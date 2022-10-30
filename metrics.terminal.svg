@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="681" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="718" class="">
   
 
   <defs><style>@font-face {
@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 30 Oct 2022, 22:07:21
+Last generated: 30 Oct 2022, 23:07:01
 </div>
 <div class="stdin"><span class="ps1-path">zi-gae@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>정건우(Frontend)</b> registered=4y, uid=9378, gid=4
   contributed to 40 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ffc501">#</span><span style="color:#ffc501">#</span><span style="color:#ebedf0">#</span><span style="color:#ffc501">#</span><span style="color:#ebedf0">#</span><span style="color:#ffc501">#</span><span style="color:#03001c">#</span><span style="color:#ebedf0">#</span><span style="color:#ffc501">#</span><span style="color:#ffc501">#</span><span style="color:#fe9600">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -57,14 +57,16 @@ Last generated: 30 Oct 2022, 22:07:21
   <b>   34</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">zi-gae@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 59 repositories - 1.13 GB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+-r--  <b>   16</b>  stargazers
+-r--  <b>    7</b>  forks
+-r--  <b>   51</b>  watchers
 dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── MIT
 </div>
 
 
-<footer>Connection reset by 243.209.38.165</footer></pre>
+<footer>Connection reset by 217.206.164.66</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
