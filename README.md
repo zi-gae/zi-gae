@@ -33,7 +33,7 @@
  ## 🧰 Languages and Tools
 <div>
   
-  ![TypeScript Badge](http://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&link=http://zi-gae.github.io/)
+  ![Typescript Badge](http://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&link=http://zi-gae.github.io/)
   ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript&link=http://zi-gae.github.io/)
   ![React Badge](http://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=http://zi-gae.github.io/)
   ![Redux Badge](http://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=http://zi-gae.github.io/)
@@ -60,6 +60,6 @@
   ![Visual Studio Code Badge](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&link=http://zi-gae.github.io/)
   ![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat-square&logo=intelliJ%20idea&link=http://zi-gae.github.io/)
   ![Google Chrome Badge](http://img.shields.io/badge/-Google%20Chrome-000?style=flat-square&logo=google%20chrome&link=http://zi-gae.github.io/)
-  ![Apple Badge](http://img.shields.io/badge/-Appel-000?style=flat-square&logo=apple&link=http://zi-gae.github.io/)
+  ![Apple Badge](http://img.shields.io/badge/-Apple-000?style=flat-square&logo=apple&link=http://zi-gae.github.io/)
   ![JSON WEB Tokens Badge](http://img.shields.io/badge/-JSON%20WEB%20Tokens-000?style=flat-square&logo=json%20web%20tokens&link=http://zi-gae.github.io/)
   </div>
