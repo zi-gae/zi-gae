@@ -33,7 +33,7 @@
  ## 🧰 Languages and Tools
 <div>
   
-  ![Typescript Badge](http://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&link=http://zi-gae.github.io/)
+  ![Typescript Badge](http://img.shields.io/badge/-Typescript-000?style=flat-square&logo=typescript&link=http://zi-gae.github.io/)
   ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript&link=http://zi-gae.github.io/)
   ![React Badge](http://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=http://zi-gae.github.io/)
   ![Redux Badge](http://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=http://zi-gae.github.io/)
