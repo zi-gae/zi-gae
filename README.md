@@ -16,8 +16,8 @@
 <br/>
 <br/>
 
- ## 💁 Who am i
-<img width="70%" alt="matrix" src="https://github.com/zi-gae/zi-gae/blob/master/metrics.terminal.svg"/>
+ 
+<!-- ## 💁 Who am i <img width="70%" alt="matrix" src="https://github.com/zi-gae/zi-gae/blob/master/metrics.terminal.svg"/> -->
 
 
 
@@ -27,6 +27,8 @@
 <!-- ## 🏆 My stats -->
 <!-- ![zi-gae github stay](https://github-readme-stats.vercel.app/api?username=zi-gae&count_private=true&show_icons=true&theme=radical)-->
 
+
+<!--
 <br/>
 <br/>
 
